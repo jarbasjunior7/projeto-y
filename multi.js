@@ -1,0 +1,1 @@
+console.log("Multi: ",5 * 5)
